@@ -7,7 +7,7 @@ import com.nandaiqbalh.mypassword.data.local.preference.UserPreferenceDataSource
 import com.nandaiqbalh.mypassword.data.repository.LocalRepository
 import com.nandaiqbalh.mypassword.data.repository.LocalRepositoryImpl
 
-class ServiceLocator {
+object ServiceLocator {
 
 	fun provideUserPreference(context: Context): UserPreference{
 		return UserPreference(context)

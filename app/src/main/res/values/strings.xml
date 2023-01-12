@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">MyPassword</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_app_key">Create App Key</string>
+    <string name="text_create_app_key_desc">Protect your app with App Key!</string>
+    <string name="confirm_app_key">Confirm App Key</string>
+    <string name="new_app_key">New App Key</string>
+    <string name="confirm">Confirm</string>
+    <string name="app_key">App Key</string>
+    <string name="enter_app_key">Enter App Key</string>
+    <string name="please_enter_your_app_key_to_continue">Please enter your App Key to continue!</string>
 </resources>
