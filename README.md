@@ -1,5 +1,3 @@
-![Thumbnail Demo](https://github.com/nandaiqbalh/my-password/assets/70440045/6144534a-84ec-4e62-9d39-65e23a029f04)
-
 # MyPassword
 an app to keep your passwords safe and avoid losing your password. msib project that developed using Kotlin with MVVM as architectural pattern.
 
