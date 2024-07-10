@@ -5,10 +5,11 @@ an app to keep your passwords safe and avoid losing your password. msib project 
 
 ## Clean architecture with MVVM Pattern
 - Kotlin
+- XML
 - Room Database
 - SharedPreferences
-- DependencyInjection
-- Zetetic SQL Chipper
+- Zetetic SQL Chiper
+- Github
 
 ## Getting started
 Download this repository extract and open the template folder on Android Studio
