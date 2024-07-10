@@ -11,7 +11,7 @@ an app to keep your passwords safe and avoid losing your password. msib project 
 - Zetetic SQL Chiper
 - Github
 
-## Getting started
+## Run Project
 Download this repository extract and open the template folder on Android Studio
 that we advice to keep a clean project, you will however need to replace the secret keys with your own.
 
