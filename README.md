@@ -15,5 +15,5 @@ Download this repository extract and open the template folder on Android Studio
 that we advice to keep a clean project, you will however need to replace the secret keys with your own.
 
 ## Demo
-<a href="https://www.instagram.com/reel/CntyJc3vjFV/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==" target="_blank">MyPassword Demo</a>
+https://github.com/nandaiqbalh/my-password/assets/70440045/665e9f9e-1305-45ca-a710-41db47e2bf2a
 
