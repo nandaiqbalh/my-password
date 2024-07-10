@@ -15,5 +15,7 @@ Download this repository extract and open the template folder on Android Studio
 that we advice to keep a clean project, you will however need to replace the secret keys with your own.
 
 ## Demo
-https://github.com/nandaiqbalh/my-password/assets/70440045/665e9f9e-1305-45ca-a710-41db47e2bf2a
+https://github.com/nandaiqbalh/my-password/assets/70440045/69450054-0e7c-41c2-bfca-570d4f618d8d
+
+
 
